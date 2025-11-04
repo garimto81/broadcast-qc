@@ -1,0 +1,35 @@
+{
+  "name": "broadcast-qc",
+  "version": "1.0.0",
+  "description": "AI-powered broadcast quality control system for WSOP poker videos",
+  "main": "src/main.py",
+  "scripts": {
+    "analyze": "python src/analyzers/wsop_precise_analyzer.py",
+    "train": "python src/models/train.py",
+    "test": "pytest tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/broadcast-qc.git"
+  },
+  "keywords": [
+    "broadcast",
+    "qc",
+    "quality-control",
+    "wsop",
+    "poker",
+    "video-analysis",
+    "machine-learning",
+    "computer-vision"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "opencv-python": "^4.12.0",
+    "numpy": "^2.2.6",
+    "torch": "^2.0.0",
+    "torchvision": "^0.15.0",
+    "fastapi": "^0.104.0",
+    "label-studio": "^1.9.0"
+  }
+}
