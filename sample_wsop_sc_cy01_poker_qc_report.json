@@ -1,0 +1,1438 @@
+{
+  "video_info": {
+    "filename": "sample_wsop_sc_cy01.mp4",
+    "resolution": "1920x1080",
+    "fps": "59.94",
+    "duration": "0:09:01",
+    "total_frames": 32482
+  },
+  "table_analysis": {
+    "total_scenes": 5,
+    "feature_table_a": [],
+    "feature_table_b": [],
+    "outer_tables": [],
+    "other_scenes": [
+      {
+        "scene_id": 1,
+        "table_type": "interview",
+        "start_frame": 0,
+        "start_time": 0.0,
+        "start_tc": "0:00:00",
+        "end_frame": 4292,
+        "end_time": 71.60486666666667,
+        "duration": 71.60486666666667,
+        "end_tc": "0:01:11"
+      },
+      {
+        "scene_id": 2,
+        "table_type": "transition",
+        "start_frame": 4321,
+        "start_time": 72.08868333333334,
+        "start_tc": "0:01:12",
+        "end_frame": 4466,
+        "end_time": 74.50776666666667,
+        "duration": 2.419083333333333,
+        "end_tc": "0:01:14"
+      },
+      {
+        "scene_id": 3,
+        "table_type": "interview",
+        "start_frame": 4495,
+        "start_time": 74.99158333333334,
+        "start_tc": "0:01:14",
+        "end_frame": 4669,
+        "end_time": 77.89448333333334,
+        "duration": 2.9029000000000025,
+        "end_tc": "0:01:17"
+      },
+      {
+        "scene_id": 4,
+        "table_type": "interview",
+        "start_frame": 4727,
+        "start_time": 78.86211666666667,
+        "start_tc": "0:01:18",
+        "end_frame": 5800,
+        "end_time": 96.76333333333334,
+        "duration": 17.90121666666667,
+        "end_tc": "0:01:36"
+      },
+      {
+        "scene_id": 5,
+        "table_type": "transition",
+        "start_frame": 5829,
+        "start_time": 97.24715,
+        "start_tc": "0:01:37",
+        "end_frame": 32481,
+        "end_time": 541.9080333333334,
+        "duration": 444.66088333333335,
+        "end_tc": "0:09:01"
+      }
+    ],
+    "table_distribution": {
+      "feature_a": 0,
+      "feature_b": 0,
+      "outer": 0,
+      "other": 5
+    }
+  },
+  "subtitle_analysis": {
+    "total_subtitles": 2879,
+    "subtitle_frames": [
+      {
+        "frame": 0,
+        "timecode": "0:00:00",
+        "time_seconds": 0.0,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05716386959876543,
+            "white_ratio": 0.09463734567901234,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 11,
+        "timecode": "0:00:00",
+        "time_seconds": 0.18351666666666666,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.057197627314814814,
+            "white_ratio": 0.09456983024691358,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 22,
+        "timecode": "0:00:00",
+        "time_seconds": 0.3670333333333333,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.056949266975308645,
+            "white_ratio": 0.09455777391975309,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 33,
+        "timecode": "0:00:00",
+        "time_seconds": 0.55055,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05669126157407407,
+            "white_ratio": 0.09463011188271606,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 44,
+        "timecode": "0:00:00",
+        "time_seconds": 0.7340666666666666,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.056978202160493825,
+            "white_ratio": 0.09462770061728396,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 55,
+        "timecode": "0:00:00",
+        "time_seconds": 0.9175833333333333,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.057233796296296297,
+            "white_ratio": 0.09463252314814814,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 66,
+        "timecode": "0:00:01",
+        "time_seconds": 1.1011,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05719521604938271,
+            "white_ratio": 0.09465904706790124,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 77,
+        "timecode": "0:00:01",
+        "time_seconds": 1.2846166666666667,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05763406635802469,
+            "white_ratio": 0.09465181327160493,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 88,
+        "timecode": "0:00:01",
+        "time_seconds": 1.4681333333333333,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05760271990740741,
+            "white_ratio": 0.09464940200617283,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 99,
+        "timecode": "0:00:01",
+        "time_seconds": 1.65165,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05774016203703704,
+            "white_ratio": 0.09463734567901234,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 110,
+        "timecode": "0:00:01",
+        "time_seconds": 1.8351666666666666,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05766300154320988,
+            "white_ratio": 0.09464457947530865,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 121,
+        "timecode": "0:00:02",
+        "time_seconds": 2.018683333333333,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05787278163580247,
+            "white_ratio": 0.09467833719135803,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 132,
+        "timecode": "0:00:02",
+        "time_seconds": 2.2022,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05780285493827161,
+            "white_ratio": 0.09467833719135803,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 143,
+        "timecode": "0:00:02",
+        "time_seconds": 2.3857166666666667,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05802710262345679,
+            "white_ratio": 0.09467351466049383,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 154,
+        "timecode": "0:00:02",
+        "time_seconds": 2.5692333333333335,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.0582007137345679,
+            "white_ratio": 0.09465663580246914,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 165,
+        "timecode": "0:00:02",
+        "time_seconds": 2.7527500000000003,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05777391975308642,
+            "white_ratio": 0.09467592592592593,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 176,
+        "timecode": "0:00:02",
+        "time_seconds": 2.9362666666666666,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.057720871913580246,
+            "white_ratio": 0.09467592592592593,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 187,
+        "timecode": "0:00:03",
+        "time_seconds": 3.1197833333333334,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05713252314814815,
+            "white_ratio": 0.09470244984567901,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 198,
+        "timecode": "0:00:03",
+        "time_seconds": 3.3033,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05704812885802469,
+            "white_ratio": 0.09467833719135803,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 209,
+        "timecode": "0:00:03",
+        "time_seconds": 3.486816666666667,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05755208333333333,
+            "white_ratio": 0.09469280478395062,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 220,
+        "timecode": "0:00:03",
+        "time_seconds": 3.6703333333333332,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05720727237654321,
+            "white_ratio": 0.09463975694444444,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 231,
+        "timecode": "0:00:03",
+        "time_seconds": 3.85385,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.057433931327160494,
+            "white_ratio": 0.09463493441358024,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 242,
+        "timecode": "0:00:04",
+        "time_seconds": 4.037366666666666,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05746045524691358,
+            "white_ratio": 0.09463493441358024,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 253,
+        "timecode": "0:00:04",
+        "time_seconds": 4.220883333333333,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.057561728395061726,
+            "white_ratio": 0.09468315972222222,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 264,
+        "timecode": "0:00:04",
+        "time_seconds": 4.4044,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05774739583333333,
+            "white_ratio": 0.09468557098765432,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 275,
+        "timecode": "0:00:04",
+        "time_seconds": 4.587916666666667,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05730372299382716,
+            "white_ratio": 0.09467592592592593,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 286,
+        "timecode": "0:00:04",
+        "time_seconds": 4.771433333333333,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.057118055555555554,
+            "white_ratio": 0.09468315972222222,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 297,
+        "timecode": "0:00:04",
+        "time_seconds": 4.95495,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.057455632716049386,
+            "white_ratio": 0.09469521604938272,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 308,
+        "timecode": "0:00:05",
+        "time_seconds": 5.138466666666667,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05754243827160494,
+            "white_ratio": 0.09469762731481482,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 319,
+        "timecode": "0:00:05",
+        "time_seconds": 5.321983333333334,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.057629243827160496,
+            "white_ratio": 0.09469280478395062,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 330,
+        "timecode": "0:00:05",
+        "time_seconds": 5.5055000000000005,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05755690586419753,
+            "white_ratio": 0.09469280478395062,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 341,
+        "timecode": "0:00:05",
+        "time_seconds": 5.689016666666666,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05693721064814815,
+            "white_ratio": 0.09465663580246914,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 352,
+        "timecode": "0:00:05",
+        "time_seconds": 5.872533333333333,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05754002700617284,
+            "white_ratio": 0.09465422453703703,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 363,
+        "timecode": "0:00:06",
+        "time_seconds": 6.05605,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05760030864197531,
+            "white_ratio": 0.09467351466049383,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 374,
+        "timecode": "0:00:06",
+        "time_seconds": 6.239566666666667,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05740740740740741,
+            "white_ratio": 0.09467351466049383,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 385,
+        "timecode": "0:00:06",
+        "time_seconds": 6.4230833333333335,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.057923418209876544,
+            "white_ratio": 0.09468798225308642,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 396,
+        "timecode": "0:00:06",
+        "time_seconds": 6.6066,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.057843846450617284,
+            "white_ratio": 0.09468798225308642,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 407,
+        "timecode": "0:00:06",
+        "time_seconds": 6.790116666666667,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.057291666666666664,
+            "white_ratio": 0.09466145833333334,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 418,
+        "timecode": "0:00:06",
+        "time_seconds": 6.973633333333334,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05749421296296296,
+            "white_ratio": 0.09466145833333334,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 429,
+        "timecode": "0:00:07",
+        "time_seconds": 7.157150000000001,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05785590277777778,
+            "white_ratio": 0.09464940200617283,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 440,
+        "timecode": "0:00:07",
+        "time_seconds": 7.3406666666666665,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.057877604166666666,
+            "white_ratio": 0.09464940200617283,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 451,
+        "timecode": "0:00:07",
+        "time_seconds": 7.524183333333333,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05755449459876543,
+            "white_ratio": 0.09464699074074075,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 462,
+        "timecode": "0:00:07",
+        "time_seconds": 7.7077,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.057325424382716046,
+            "white_ratio": 0.09463734567901234,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 473,
+        "timecode": "0:00:07",
+        "time_seconds": 7.891216666666667,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.057262731481481484,
+            "white_ratio": 0.09464940200617283,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 484,
+        "timecode": "0:00:08",
+        "time_seconds": 8.074733333333333,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05758584104938272,
+            "white_ratio": 0.09463252314814814,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 495,
+        "timecode": "0:00:08",
+        "time_seconds": 8.25825,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05773775077160494,
+            "white_ratio": 0.09466145833333334,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 506,
+        "timecode": "0:00:08",
+        "time_seconds": 8.441766666666666,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05763406635802469,
+            "white_ratio": 0.09466145833333334,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 517,
+        "timecode": "0:00:08",
+        "time_seconds": 8.625283333333334,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05736400462962963,
+            "white_ratio": 0.09464940200617283,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 528,
+        "timecode": "0:00:08",
+        "time_seconds": 8.8088,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05744598765432099,
+            "white_ratio": 0.09464216820987655,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 539,
+        "timecode": "0:00:08",
+        "time_seconds": 8.992316666666667,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05775462962962963,
+            "white_ratio": 0.09467592592592593,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 550,
+        "timecode": "0:00:09",
+        "time_seconds": 9.175833333333333,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05775704089506173,
+            "white_ratio": 0.09467592592592593,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 561,
+        "timecode": "0:00:09",
+        "time_seconds": 9.359350000000001,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05743152006172839,
+            "white_ratio": 0.09469039351851852,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 572,
+        "timecode": "0:00:09",
+        "time_seconds": 9.542866666666667,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05755208333333333,
+            "white_ratio": 0.09469039351851852,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 583,
+        "timecode": "0:00:09",
+        "time_seconds": 9.726383333333333,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05691792052469136,
+            "white_ratio": 0.09465904706790124,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 594,
+        "timecode": "0:00:09",
+        "time_seconds": 9.9099,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.057373649691358025,
+            "white_ratio": 0.09466145833333334,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 605,
+        "timecode": "0:00:10",
+        "time_seconds": 10.093416666666666,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05707706404320988,
+            "white_ratio": 0.09464216820987655,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 616,
+        "timecode": "0:00:10",
+        "time_seconds": 10.276933333333334,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05707947530864198,
+            "white_ratio": 0.09464457947530865,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 627,
+        "timecode": "0:00:10",
+        "time_seconds": 10.46045,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.057641300154320986,
+            "white_ratio": 0.09464457947530865,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 638,
+        "timecode": "0:00:10",
+        "time_seconds": 10.643966666666667,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.057436342592592594,
+            "white_ratio": 0.09463975694444444,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 649,
+        "timecode": "0:00:10",
+        "time_seconds": 10.827483333333333,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05783661265432099,
+            "white_ratio": 0.09464940200617283,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 660,
+        "timecode": "0:00:11",
+        "time_seconds": 11.011000000000001,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05788724922839506,
+            "white_ratio": 0.09464940200617283,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 671,
+        "timecode": "0:00:11",
+        "time_seconds": 11.194516666666667,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05814525462962963,
+            "white_ratio": 0.09458188657407407,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 682,
+        "timecode": "0:00:11",
+        "time_seconds": 11.378033333333333,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05863715277777778,
+            "white_ratio": 0.09457706404320988,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 693,
+        "timecode": "0:00:11",
+        "time_seconds": 11.56155,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05779562114197531,
+            "white_ratio": 0.09463011188271606,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 704,
+        "timecode": "0:00:11",
+        "time_seconds": 11.745066666666666,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05782455632716049,
+            "white_ratio": 0.09463011188271606,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 715,
+        "timecode": "0:00:11",
+        "time_seconds": 11.928583333333334,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.056729841820987656,
+            "white_ratio": 0.09462528935185185,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 726,
+        "timecode": "0:00:12",
+        "time_seconds": 12.1121,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05678288966049383,
+            "white_ratio": 0.09463011188271606,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 737,
+        "timecode": "0:00:12",
+        "time_seconds": 12.295616666666668,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05674672067901235,
+            "white_ratio": 0.09460841049382716,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 748,
+        "timecode": "0:00:12",
+        "time_seconds": 12.479133333333333,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.056809413580246916,
+            "white_ratio": 0.09462287808641975,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 759,
+        "timecode": "0:00:12",
+        "time_seconds": 12.662650000000001,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05689621913580247,
+            "white_ratio": 0.09460599922839506,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 770,
+        "timecode": "0:00:12",
+        "time_seconds": 12.846166666666667,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05693479938271605,
+            "white_ratio": 0.09460841049382716,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 781,
+        "timecode": "0:00:13",
+        "time_seconds": 13.029683333333333,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05720727237654321,
+            "white_ratio": 0.09457947530864197,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 792,
+        "timecode": "0:00:13",
+        "time_seconds": 13.2132,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05744116512345679,
+            "white_ratio": 0.09461805555555555,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 803,
+        "timecode": "0:00:13",
+        "time_seconds": 13.396716666666666,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05772569444444445,
+            "white_ratio": 0.09461323302469135,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 814,
+        "timecode": "0:00:13",
+        "time_seconds": 13.580233333333334,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05785590277777778,
+            "white_ratio": 0.09461082175925926,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 825,
+        "timecode": "0:00:13",
+        "time_seconds": 13.76375,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05757860725308642,
+            "white_ratio": 0.09460117669753086,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 836,
+        "timecode": "0:00:13",
+        "time_seconds": 13.947266666666668,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05756896219135803,
+            "white_ratio": 0.09460117669753086,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 847,
+        "timecode": "0:00:14",
+        "time_seconds": 14.130783333333333,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05773775077160494,
+            "white_ratio": 0.09460117669753086,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 858,
+        "timecode": "0:00:14",
+        "time_seconds": 14.314300000000001,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05755931712962963,
+            "white_ratio": 0.09459153163580247,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 869,
+        "timecode": "0:00:14",
+        "time_seconds": 14.497816666666667,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.057612364969135806,
+            "white_ratio": 0.09458670910493827,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 880,
+        "timecode": "0:00:14",
+        "time_seconds": 14.681333333333333,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.057612364969135806,
+            "white_ratio": 0.09458912037037037,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 891,
+        "timecode": "0:00:14",
+        "time_seconds": 14.86485,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05752555941358025,
+            "white_ratio": 0.09461082175925926,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 902,
+        "timecode": "0:00:15",
+        "time_seconds": 15.048366666666666,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05705295138888889,
+            "white_ratio": 0.09461564429012345,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 913,
+        "timecode": "0:00:15",
+        "time_seconds": 15.231883333333334,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05765094521604938,
+            "white_ratio": 0.09460599922839506,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 924,
+        "timecode": "0:00:15",
+        "time_seconds": 15.4154,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05750868055555555,
+            "white_ratio": 0.09460599922839506,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 935,
+        "timecode": "0:00:15",
+        "time_seconds": 15.598916666666668,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05774016203703704,
+            "white_ratio": 0.09458912037037037,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 946,
+        "timecode": "0:00:15",
+        "time_seconds": 15.782433333333334,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05758584104938272,
+            "white_ratio": 0.09458912037037037,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 957,
+        "timecode": "0:00:15",
+        "time_seconds": 15.96595,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05725549768518518,
+            "white_ratio": 0.09460117669753086,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 968,
+        "timecode": "0:00:16",
+        "time_seconds": 16.149466666666665,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05724585262345679,
+            "white_ratio": 0.09462287808641975,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 979,
+        "timecode": "0:00:16",
+        "time_seconds": 16.332983333333335,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.057687114197530864,
+            "white_ratio": 0.09459394290123457,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 990,
+        "timecode": "0:00:16",
+        "time_seconds": 16.5165,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.057718460648148145,
+            "white_ratio": 0.09459394290123457,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 1001,
+        "timecode": "0:00:16",
+        "time_seconds": 16.700016666666667,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05724826388888889,
+            "white_ratio": 0.09459394290123457,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 1012,
+        "timecode": "0:00:16",
+        "time_seconds": 16.883533333333332,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.057291666666666664,
+            "white_ratio": 0.09458670910493827,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 1023,
+        "timecode": "0:00:17",
+        "time_seconds": 17.067050000000002,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05748939043209877,
+            "white_ratio": 0.09460599922839506,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 1034,
+        "timecode": "0:00:17",
+        "time_seconds": 17.250566666666668,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.057626832561728396,
+            "white_ratio": 0.09460358796296296,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 1045,
+        "timecode": "0:00:17",
+        "time_seconds": 17.434083333333334,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.057908950617283954,
+            "white_ratio": 0.09459876543209876,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 1056,
+        "timecode": "0:00:17",
+        "time_seconds": 17.6176,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05788483796296296,
+            "white_ratio": 0.09460358796296296,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 1067,
+        "timecode": "0:00:17",
+        "time_seconds": 17.801116666666665,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05795235339506173,
+            "white_ratio": 0.09458670910493827,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 1078,
+        "timecode": "0:00:17",
+        "time_seconds": 17.984633333333335,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.05796682098765432,
+            "white_ratio": 0.09458670910493827,
+            "type": "subtitle"
+          }
+        }
+      },
+      {
+        "frame": 1089,
+        "timecode": "0:00:18",
+        "time_seconds": 18.16815,
+        "regions": {
+          "bottom": {
+            "edge_density": 0.058195891203703706,
+            "white_ratio": 0.09457224151234568,
+            "type": "subtitle"
+          }
+        }
+      }
+    ],
+    "subtitle_coverage": 8.86337048211317,
+    "extracted_images": [
+      {
+        "filename": "subtitle_001_0-00-00.jpg",
+        "filepath": "sample_wsop_sc_cy01_subtitles\\subtitle_001_0-00-00.jpg",
+        "frame": 0,
+        "timecode": "0:00:00",
+        "time_seconds": 0.0
+      },
+      {
+        "filename": "subtitle_002_0-00-26.jpg",
+        "filepath": "sample_wsop_sc_cy01_subtitles\\subtitle_002_0-00-26.jpg",
+        "frame": 1573,
+        "timecode": "0:00:26",
+        "time_seconds": 26.242883333333335
+      },
+      {
+        "filename": "subtitle_003_0-01-02.jpg",
+        "filepath": "sample_wsop_sc_cy01_subtitles\\subtitle_003_0-01-02.jpg",
+        "frame": 3718,
+        "timecode": "0:01:02",
+        "time_seconds": 62.02863333333333
+      },
+      {
+        "filename": "subtitle_004_0-01-28.jpg",
+        "filepath": "sample_wsop_sc_cy01_subtitles\\subtitle_004_0-01-28.jpg",
+        "frame": 5291,
+        "timecode": "0:01:28",
+        "time_seconds": 88.27151666666667
+      },
+      {
+        "filename": "subtitle_005_0-01-54.jpg",
+        "filepath": "sample_wsop_sc_cy01_subtitles\\subtitle_005_0-01-54.jpg",
+        "frame": 6864,
+        "timecode": "0:01:54",
+        "time_seconds": 114.51440000000001
+      },
+      {
+        "filename": "subtitle_006_0-02-20.jpg",
+        "filepath": "sample_wsop_sc_cy01_subtitles\\subtitle_006_0-02-20.jpg",
+        "frame": 8437,
+        "timecode": "0:02:20",
+        "time_seconds": 140.75728333333333
+      },
+      {
+        "filename": "subtitle_007_0-02-47.jpg",
+        "filepath": "sample_wsop_sc_cy01_subtitles\\subtitle_007_0-02-47.jpg",
+        "frame": 10010,
+        "timecode": "0:02:47",
+        "time_seconds": 167.00016666666667
+      },
+      {
+        "filename": "subtitle_008_0-03-13.jpg",
+        "filepath": "sample_wsop_sc_cy01_subtitles\\subtitle_008_0-03-13.jpg",
+        "frame": 11583,
+        "timecode": "0:03:13",
+        "time_seconds": 193.24305
+      },
+      {
+        "filename": "subtitle_009_0-03-39.jpg",
+        "filepath": "sample_wsop_sc_cy01_subtitles\\subtitle_009_0-03-39.jpg",
+        "frame": 13156,
+        "timecode": "0:03:39",
+        "time_seconds": 219.48593333333335
+      },
+      {
+        "filename": "subtitle_010_0-04-05.jpg",
+        "filepath": "sample_wsop_sc_cy01_subtitles\\subtitle_010_0-04-05.jpg",
+        "frame": 14729,
+        "timecode": "0:04:05",
+        "time_seconds": 245.72881666666666
+      },
+      {
+        "filename": "subtitle_011_0-04-31.jpg",
+        "filepath": "sample_wsop_sc_cy01_subtitles\\subtitle_011_0-04-31.jpg",
+        "frame": 16302,
+        "timecode": "0:04:31",
+        "time_seconds": 271.9717
+      },
+      {
+        "filename": "subtitle_012_0-04-58.jpg",
+        "filepath": "sample_wsop_sc_cy01_subtitles\\subtitle_012_0-04-58.jpg",
+        "frame": 17875,
+        "timecode": "0:04:58",
+        "time_seconds": 298.21458333333334
+      },
+      {
+        "filename": "subtitle_013_0-05-24.jpg",
+        "filepath": "sample_wsop_sc_cy01_subtitles\\subtitle_013_0-05-24.jpg",
+        "frame": 19448,
+        "timecode": "0:05:24",
+        "time_seconds": 324.4574666666667
+      },
+      {
+        "filename": "subtitle_014_0-05-50.jpg",
+        "filepath": "sample_wsop_sc_cy01_subtitles\\subtitle_014_0-05-50.jpg",
+        "frame": 21021,
+        "timecode": "0:05:50",
+        "time_seconds": 350.70035
+      },
+      {
+        "filename": "subtitle_015_0-06-16.jpg",
+        "filepath": "sample_wsop_sc_cy01_subtitles\\subtitle_015_0-06-16.jpg",
+        "frame": 22594,
+        "timecode": "0:06:16",
+        "time_seconds": 376.94323333333335
+      },
+      {
+        "filename": "subtitle_016_0-06-43.jpg",
+        "filepath": "sample_wsop_sc_cy01_subtitles\\subtitle_016_0-06-43.jpg",
+        "frame": 24167,
+        "timecode": "0:06:43",
+        "time_seconds": 403.1861166666667
+      },
+      {
+        "filename": "subtitle_017_0-07-09.jpg",
+        "filepath": "sample_wsop_sc_cy01_subtitles\\subtitle_017_0-07-09.jpg",
+        "frame": 25740,
+        "timecode": "0:07:09",
+        "time_seconds": 429.42900000000003
+      },
+      {
+        "filename": "subtitle_018_0-07-35.jpg",
+        "filepath": "sample_wsop_sc_cy01_subtitles\\subtitle_018_0-07-35.jpg",
+        "frame": 27313,
+        "timecode": "0:07:35",
+        "time_seconds": 455.67188333333337
+      },
+      {
+        "filename": "subtitle_019_0-08-01.jpg",
+        "filepath": "sample_wsop_sc_cy01_subtitles\\subtitle_019_0-08-01.jpg",
+        "frame": 28886,
+        "timecode": "0:08:01",
+        "time_seconds": 481.91476666666665
+      },
+      {
+        "filename": "subtitle_020_0-08-32.jpg",
+        "filepath": "sample_wsop_sc_cy01_subtitles\\subtitle_020_0-08-32.jpg",
+        "frame": 30701,
+        "timecode": "0:08:32",
+        "time_seconds": 512.1950166666667
+      }
+    ]
+  },
+  "qc_summary": {
+    "table_coverage": {
+      "feature_a_percentage": 0.0,
+      "feature_b_percentage": 0.0,
+      "outer_percentage": 0.0,
+      "other_percentage": 100.0
+    },
+    "subtitle_coverage": 8.86337048211317,
+    "recommendations": [
+      "경고: 피처 테이블 씬이 없습니다"
+    ]
+  }
+}

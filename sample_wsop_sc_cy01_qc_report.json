@@ -1,0 +1,167 @@
+{
+  "file_info": {
+    "filename": "sample_wsop_sc_cy01.mp4",
+    "resolution": "1920x1080",
+    "aspect_ratio": "1.78:1",
+    "fps": "59.94",
+    "duration": "0:09:01",
+    "total_frames": 32482,
+    "bitrate_estimate": "15.84 Mbps"
+  },
+  "scene_analysis": {
+    "total_scenes": 4,
+    "scenes": [
+      {
+        "scene_id": 1,
+        "start_frame": 0,
+        "end_frame": 14080,
+        "start_time": 0.0,
+        "end_time": 234.90133333333333,
+        "duration": 234.90133333333333,
+        "start_tc": "0:00:00",
+        "end_tc": "0:03:54",
+        "content_type": "crowd/ambient",
+        "avg_brightness": 108.43404610339506,
+        "qc_notes": []
+      },
+      {
+        "scene_id": 2,
+        "start_frame": 14085,
+        "end_frame": 27065,
+        "start_time": 234.98475,
+        "end_time": 451.5344166666667,
+        "duration": 216.5496666666667,
+        "start_tc": "0:03:54",
+        "end_tc": "0:07:31",
+        "content_type": "crowd/ambient",
+        "avg_brightness": 114.89935185185185,
+        "qc_notes": []
+      },
+      {
+        "scene_id": 3,
+        "start_frame": 27070,
+        "end_frame": 30150,
+        "start_time": 451.61783333333335,
+        "end_time": 503.0025,
+        "duration": 51.38466666666665,
+        "start_tc": "0:07:31",
+        "end_tc": "0:08:23",
+        "content_type": "crowd/ambient",
+        "avg_brightness": 69.26468074845678,
+        "qc_notes": []
+      },
+      {
+        "scene_id": 4,
+        "start_frame": 30155,
+        "end_frame": 32481,
+        "start_time": 503.08591666666666,
+        "end_time": 541.89135,
+        "duration": 38.805433333333326,
+        "start_tc": "0:08:23",
+        "end_tc": "0:09:01",
+        "content_type": "crowd/ambient",
+        "avg_brightness": 67.04723234953704,
+        "qc_notes": []
+      }
+    ],
+    "scene_change_rate": 0.44287957593788513
+  },
+  "technical_issues": {
+    "black_frames": {
+      "count": 0,
+      "frames": [],
+      "percentage": 0.0
+    },
+    "freeze_frames": {
+      "count": 73,
+      "segments": [
+        {
+          "start_frame": 0,
+          "end_frame": 1140,
+          "duration": 19.019000000000002,
+          "start_tc": "0:00:00"
+        },
+        {
+          "start_frame": 1185,
+          "end_frame": 1460,
+          "duration": 4.587916666666667,
+          "start_tc": "0:00:19"
+        },
+        {
+          "start_frame": 1545,
+          "end_frame": 2140,
+          "duration": 9.926583333333333,
+          "start_tc": "0:00:25"
+        },
+        {
+          "start_frame": 2145,
+          "end_frame": 2650,
+          "duration": 8.425083333333333,
+          "start_tc": "0:00:35"
+        },
+        {
+          "start_frame": 2695,
+          "end_frame": 3100,
+          "duration": 6.75675,
+          "start_tc": "0:00:44"
+        },
+        {
+          "start_frame": 3125,
+          "end_frame": 5000,
+          "duration": 31.28125,
+          "start_tc": "0:00:52"
+        },
+        {
+          "start_frame": 5015,
+          "end_frame": 6380,
+          "duration": 22.772750000000002,
+          "start_tc": "0:01:23"
+        },
+        {
+          "start_frame": 7425,
+          "end_frame": 7440,
+          "duration": 0.25025000000000003,
+          "start_tc": "0:02:03"
+        },
+        {
+          "start_frame": 7455,
+          "end_frame": 8140,
+          "duration": 11.428083333333333,
+          "start_tc": "0:02:04"
+        },
+        {
+          "start_frame": 8145,
+          "end_frame": 8220,
+          "duration": 1.25125,
+          "start_tc": "0:02:15"
+        }
+      ],
+      "total_duration": 247.4138333333332
+    },
+    "flash_frames": {
+      "count": 0,
+      "frames": [],
+      "severity": "Low"
+    }
+  },
+  "color_analysis": {
+    "samples": 273,
+    "hue_variance": 0.8302395575628232,
+    "saturation_variance": 1.0930054055370158,
+    "brightness_variance": 1.5140669041099608,
+    "avg_brightness": 60.32013032315548,
+    "color_consistency": "Good"
+  },
+  "aspect_ratio_issues": {
+    "current": "1.778:1",
+    "resolution": "1920x1080",
+    "closest_standard": "16:9",
+    "is_standard": true,
+    "recommendation": "OK"
+  },
+  "qc_status": "PASS WITH WARNINGS - Minor issues detected",
+  "recommendations": [
+    "Check 73 freeze segments (247.4s total)",
+    "Very few scene changes - verify content is complete"
+  ]
+}
