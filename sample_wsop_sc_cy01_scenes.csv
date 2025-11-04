@@ -1,8 +1,0 @@
-scene_id,start_timecode,end_timecode,duration,content_type
-1,0:00:00,0:01:33,93.96,player_closeup
-2,0:01:33,0:03:00,86.62,player_closeup
-3,0:03:00,0:03:21,20.55,player_closeup
-4,0:03:21,0:04:18,57.49,player_closeup
-5,0:04:18,0:06:28,129.93,player_closeup
-6,0:06:28,0:06:32,4.10,transition
-7,0:06:32,0:09:01,149.05,

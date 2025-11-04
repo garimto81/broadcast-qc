@@ -1,0 +1,43 @@
+# Broadcast QC Configuration
+
+video:
+  supported_formats: ['.mp4', '.avi', '.mov', '.mkv']
+  default_fps: 59.94
+  default_resolution: [1920, 1080]
+
+analysis:
+  # Scene Detection
+  scene_detection:
+    threshold: 25.0
+    min_scene_duration: 1.0  # seconds
+    method: 'combined'  # histogram, edge, combined
+
+  # Transition Detection
+  transition_detection:
+    min_duration: 1.0  # seconds
+    max_duration: 5.0  # seconds
+    confidence_threshold: 0.8
+
+  # Table Classification
+  table_classification:
+    types: ['feature_a', 'feature_b', 'virtual', 'unknown']
+    green_threshold: 0.1
+    overlay_detection: true
+
+performance:
+  batch_size: 32
+  use_gpu: true
+  max_frames_in_memory: 1000
+  sample_rate: 1.0  # seconds between samples
+
+output:
+  formats: ['json', 'csv']
+  save_thumbnails: true
+  thumbnail_quality: 85
+  report_language: 'ko'  # Korean
+
+paths:
+  models: 'models/'
+  output: 'output/'
+  temp: 'temp/'
+  logs: 'logs/'

@@ -9,7 +9,12 @@
       "Bash(git checkout:*)",
       "Bash(git add:*)",
       "Bash(git reset:*)",
-      "Bash(git init:*)"
+      "Bash(git init:*)",
+      "Bash(git commit:*)",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(tree:*)"
     ],
     "deny": [],
     "ask": []

@@ -32,7 +32,7 @@ def detect_wsop_transitions(video_path):
     print("\n트랜지션 감지 중...")
     for frame_idx in range(0, frame_count, sample_rate):
         cap.set(cv2.CAP_PROP_POS_FRAMES, frame_idx)
-        ret, frame = self.cap.read()
+        ret, frame = cap.read()
         if not ret:
             break
 
